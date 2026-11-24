@@ -1,0 +1,1195 @@
+{
+ "audio": "audio/narracao-epico.mp3",
+ "duration": 89.797,
+ "paragraphs": [
+  {
+   "start": 0.0,
+   "end": 8.6,
+   "text": "Lembra daquele cliente que vinha todo mês? Sentava na cadeira, pedia o de sempre… e um dia, simplesmente parou de vir.",
+   "words": [
+    {
+     "w": "Lembra",
+     "start": 0.0,
+     "end": 0.34
+    },
+    {
+     "w": "daquele",
+     "start": 0.34,
+     "end": 0.66
+    },
+    {
+     "w": "cliente",
+     "start": 0.66,
+     "end": 1.2
+    },
+    {
+     "w": "que",
+     "start": 1.2,
+     "end": 1.28
+    },
+    {
+     "w": "vinha",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "todo",
+     "start": 1.52,
+     "end": 1.9
+    },
+    {
+     "w": "mês?",
+     "start": 1.9,
+     "end": 2.24
+    },
+    {
+     "w": "Sentava",
+     "start": 2.92,
+     "end": 3.28
+    },
+    {
+     "w": "na",
+     "start": 3.28,
+     "end": 3.42
+    },
+    {
+     "w": "cadeira,",
+     "start": 3.42,
+     "end": 4.08
+    },
+    {
+     "w": "pedia",
+     "start": 4.08,
+     "end": 4.267
+    },
+    {
+     "w": "o",
+     "start": 4.267,
+     "end": 4.453
+    },
+    {
+     "w": "de",
+     "start": 4.64,
+     "end": 4.78
+    },
+    {
+     "w": "sempre…",
+     "start": 4.78,
+     "end": 5.34
+    },
+    {
+     "w": "e",
+     "start": 5.92,
+     "end": 6.06
+    },
+    {
+     "w": "um",
+     "start": 6.06,
+     "end": 6.2
+    },
+    {
+     "w": "dia,",
+     "start": 6.2,
+     "end": 6.52
+    },
+    {
+     "w": "simplesmente",
+     "start": 6.74,
+     "end": 7.46
+    },
+    {
+     "w": "parou",
+     "start": 7.46,
+     "end": 8.2
+    },
+    {
+     "w": "de",
+     "start": 8.2,
+     "end": 8.38
+    },
+    {
+     "w": "vir.",
+     "start": 8.38,
+     "end": 8.6
+    }
+   ]
+  },
+  {
+   "start": 9.08,
+   "end": 18.4,
+   "text": "Ele não reclamou. Não avisou. Só sumiu. E levou junto um dinheiro que já era seu. Agora multiplica isso por dezenas de clientes.",
+   "words": [
+    {
+     "w": "Ele",
+     "start": 9.08,
+     "end": 9.22
+    },
+    {
+     "w": "não",
+     "start": 9.22,
+     "end": 9.36
+    },
+    {
+     "w": "reclamou.",
+     "start": 9.36,
+     "end": 9.86
+    },
+    {
+     "w": "Não",
+     "start": 10.22,
+     "end": 10.48
+    },
+    {
+     "w": "avisou.",
+     "start": 10.48,
+     "end": 10.96
+    },
+    {
+     "w": "Só",
+     "start": 11.3,
+     "end": 11.64
+    },
+    {
+     "w": "sumiu.",
+     "start": 11.64,
+     "end": 12.08
+    },
+    {
+     "w": "E",
+     "start": 12.58,
+     "end": 12.7
+    },
+    {
+     "w": "levou",
+     "start": 12.7,
+     "end": 12.92
+    },
+    {
+     "w": "junto",
+     "start": 12.92,
+     "end": 13.3
+    },
+    {
+     "w": "um",
+     "start": 13.3,
+     "end": 13.5
+    },
+    {
+     "w": "dinheiro",
+     "start": 13.5,
+     "end": 13.8
+    },
+    {
+     "w": "que",
+     "start": 13.8,
+     "end": 14.02
+    },
+    {
+     "w": "já",
+     "start": 14.02,
+     "end": 14.26
+    },
+    {
+     "w": "era",
+     "start": 14.26,
+     "end": 14.52
+    },
+    {
+     "w": "seu.",
+     "start": 14.52,
+     "end": 14.82
+    },
+    {
+     "w": "Agora",
+     "start": 15.44,
+     "end": 15.7
+    },
+    {
+     "w": "multiplica",
+     "start": 15.7,
+     "end": 16.34
+    },
+    {
+     "w": "isso",
+     "start": 16.34,
+     "end": 16.7
+    },
+    {
+     "w": "por",
+     "start": 16.7,
+     "end": 16.94
+    },
+    {
+     "w": "dezenas",
+     "start": 16.94,
+     "end": 17.66
+    },
+    {
+     "w": "de",
+     "start": 17.66,
+     "end": 17.78
+    },
+    {
+     "w": "clientes.",
+     "start": 17.78,
+     "end": 18.4
+    }
+   ]
+  },
+  {
+   "start": 18.82,
+   "end": 24.26,
+   "text": "Chega de perder quem já te escolheu. A sua solução chegou: GravitaSolves.",
+   "words": [
+    {
+     "w": "Chega",
+     "start": 18.82,
+     "end": 19.26
+    },
+    {
+     "w": "de",
+     "start": 19.26,
+     "end": 19.4
+    },
+    {
+     "w": "perder",
+     "start": 19.4,
+     "end": 19.74
+    },
+    {
+     "w": "quem",
+     "start": 19.74,
+     "end": 19.98
+    },
+    {
+     "w": "já",
+     "start": 19.98,
+     "end": 20.34
+    },
+    {
+     "w": "te",
+     "start": 20.34,
+     "end": 20.5
+    },
+    {
+     "w": "escolheu.",
+     "start": 20.5,
+     "end": 21.02
+    },
+    {
+     "w": "A",
+     "start": 21.36,
+     "end": 21.48
+    },
+    {
+     "w": "sua",
+     "start": 21.48,
+     "end": 21.78
+    },
+    {
+     "w": "solução",
+     "start": 21.78,
+     "end": 22.32
+    },
+    {
+     "w": "chegou:",
+     "start": 22.32,
+     "end": 22.7
+    },
+    {
+     "w": "GravitaSolves.",
+     "start": 23.58,
+     "end": 24.26
+    }
+   ]
+  },
+  {
+   "start": 26.68,
+   "end": 35.3,
+   "text": "Em segundos, você enxerga a sua base inteira: quem está em risco, quem já sumiu… e quanto dinheiro está parado esperando por você.",
+   "words": [
+    {
+     "w": "Em",
+     "start": 26.68,
+     "end": 26.94
+    },
+    {
+     "w": "segundos,",
+     "start": 26.94,
+     "end": 27.52
+    },
+    {
+     "w": "você",
+     "start": 27.52,
+     "end": 27.88
+    },
+    {
+     "w": "enxerga",
+     "start": 27.88,
+     "end": 28.36
+    },
+    {
+     "w": "a",
+     "start": 28.36,
+     "end": 28.48
+    },
+    {
+     "w": "sua",
+     "start": 28.48,
+     "end": 28.56
+    },
+    {
+     "w": "base",
+     "start": 28.56,
+     "end": 28.96
+    },
+    {
+     "w": "inteira:",
+     "start": 28.96,
+     "end": 29.68
+    },
+    {
+     "w": "quem",
+     "start": 29.68,
+     "end": 30.18
+    },
+    {
+     "w": "está",
+     "start": 30.18,
+     "end": 30.44
+    },
+    {
+     "w": "em",
+     "start": 30.44,
+     "end": 30.62
+    },
+    {
+     "w": "risco,",
+     "start": 30.62,
+     "end": 31.08
+    },
+    {
+     "w": "quem",
+     "start": 31.34,
+     "end": 31.48
+    },
+    {
+     "w": "já",
+     "start": 31.48,
+     "end": 31.66
+    },
+    {
+     "w": "sumiu…",
+     "start": 31.66,
+     "end": 32.1
+    },
+    {
+     "w": "e",
+     "start": 32.1,
+     "end": 32.62
+    },
+    {
+     "w": "quanto",
+     "start": 32.62,
+     "end": 32.96
+    },
+    {
+     "w": "dinheiro",
+     "start": 32.96,
+     "end": 33.32
+    },
+    {
+     "w": "está",
+     "start": 33.32,
+     "end": 33.66
+    },
+    {
+     "w": "parado",
+     "start": 33.66,
+     "end": 34.22
+    },
+    {
+     "w": "esperando",
+     "start": 34.22,
+     "end": 34.66
+    },
+    {
+     "w": "por",
+     "start": 34.66,
+     "end": 34.92
+    },
+    {
+     "w": "você.",
+     "start": 34.92,
+     "end": 35.3
+    }
+   ]
+  },
+  {
+   "start": 35.7,
+   "end": 42.42,
+   "text": "E ele não te entrega só uma lista. Mostra quem tem mais chance de voltar, para você começar por onde dá resultado.",
+   "words": [
+    {
+     "w": "E",
+     "start": 35.7,
+     "end": 35.86
+    },
+    {
+     "w": "ele",
+     "start": 35.86,
+     "end": 35.98
+    },
+    {
+     "w": "não",
+     "start": 35.98,
+     "end": 36.12
+    },
+    {
+     "w": "te",
+     "start": 36.12,
+     "end": 36.28
+    },
+    {
+     "w": "entrega",
+     "start": 36.28,
+     "end": 36.66
+    },
+    {
+     "w": "só",
+     "start": 36.66,
+     "end": 36.84
+    },
+    {
+     "w": "uma",
+     "start": 36.84,
+     "end": 36.98
+    },
+    {
+     "w": "lista.",
+     "start": 36.98,
+     "end": 37.34
+    },
+    {
+     "w": "Mostra",
+     "start": 37.8,
+     "end": 38.24
+    },
+    {
+     "w": "quem",
+     "start": 38.24,
+     "end": 38.54
+    },
+    {
+     "w": "tem",
+     "start": 38.54,
+     "end": 38.8
+    },
+    {
+     "w": "mais",
+     "start": 38.8,
+     "end": 39.08
+    },
+    {
+     "w": "chance",
+     "start": 39.08,
+     "end": 39.42
+    },
+    {
+     "w": "de",
+     "start": 39.42,
+     "end": 39.62
+    },
+    {
+     "w": "voltar,",
+     "start": 39.62,
+     "end": 40.02
+    },
+    {
+     "w": "para",
+     "start": 40.02,
+     "end": 40.38
+    },
+    {
+     "w": "você",
+     "start": 40.38,
+     "end": 40.64
+    },
+    {
+     "w": "começar",
+     "start": 40.64,
+     "end": 41.06
+    },
+    {
+     "w": "por",
+     "start": 41.06,
+     "end": 41.3
+    },
+    {
+     "w": "onde",
+     "start": 41.3,
+     "end": 41.5
+    },
+    {
+     "w": "dá",
+     "start": 41.5,
+     "end": 41.84
+    },
+    {
+     "w": "resultado.",
+     "start": 41.84,
+     "end": 42.42
+    }
+   ]
+  },
+  {
+   "start": 42.88,
+   "end": 48.98,
+   "text": "Quer saber mais? É só perguntar. O agente responde em português, com os seus números, na hora.",
+   "words": [
+    {
+     "w": "Quer",
+     "start": 42.88,
+     "end": 43.04
+    },
+    {
+     "w": "saber",
+     "start": 43.04,
+     "end": 43.3
+    },
+    {
+     "w": "mais?",
+     "start": 43.3,
+     "end": 43.62
+    },
+    {
+     "w": "É",
+     "start": 44.06,
+     "end": 44.2
+    },
+    {
+     "w": "só",
+     "start": 44.2,
+     "end": 44.38
+    },
+    {
+     "w": "perguntar.",
+     "start": 44.38,
+     "end": 44.94
+    },
+    {
+     "w": "O",
+     "start": 45.28,
+     "end": 45.4
+    },
+    {
+     "w": "agente",
+     "start": 45.4,
+     "end": 45.7
+    },
+    {
+     "w": "responde",
+     "start": 45.7,
+     "end": 46.3
+    },
+    {
+     "w": "em",
+     "start": 46.3,
+     "end": 46.42
+    },
+    {
+     "w": "português,",
+     "start": 46.42,
+     "end": 47.06
+    },
+    {
+     "w": "com",
+     "start": 47.06,
+     "end": 47.34
+    },
+    {
+     "w": "os",
+     "start": 47.34,
+     "end": 47.52
+    },
+    {
+     "w": "seus",
+     "start": 47.52,
+     "end": 47.68
+    },
+    {
+     "w": "números,",
+     "start": 47.68,
+     "end": 48.18
+    },
+    {
+     "w": "na",
+     "start": 48.18,
+     "end": 48.64
+    },
+    {
+     "w": "hora.",
+     "start": 48.64,
+     "end": 48.98
+    }
+   ]
+  },
+  {
+   "start": 49.4,
+   "end": 56.76,
+   "text": "Peça uma campanha, e ela fica pronta: uma mensagem para cada cliente, com o nome, o serviço e o profissional dele.",
+   "words": [
+    {
+     "w": "Peça",
+     "start": 49.4,
+     "end": 49.64
+    },
+    {
+     "w": "uma",
+     "start": 49.64,
+     "end": 49.8
+    },
+    {
+     "w": "campanha,",
+     "start": 49.8,
+     "end": 50.42
+    },
+    {
+     "w": "e",
+     "start": 50.42,
+     "end": 50.66
+    },
+    {
+     "w": "ela",
+     "start": 50.66,
+     "end": 50.8
+    },
+    {
+     "w": "fica",
+     "start": 50.8,
+     "end": 51.0
+    },
+    {
+     "w": "pronta:",
+     "start": 51.0,
+     "end": 51.5
+    },
+    {
+     "w": "uma",
+     "start": 51.9,
+     "end": 52.12
+    },
+    {
+     "w": "mensagem",
+     "start": 52.12,
+     "end": 52.68
+    },
+    {
+     "w": "para",
+     "start": 52.68,
+     "end": 52.92
+    },
+    {
+     "w": "cada",
+     "start": 52.92,
+     "end": 53.28
+    },
+    {
+     "w": "cliente,",
+     "start": 53.28,
+     "end": 53.96
+    },
+    {
+     "w": "com",
+     "start": 53.96,
+     "end": 54.16
+    },
+    {
+     "w": "o",
+     "start": 54.16,
+     "end": 54.3
+    },
+    {
+     "w": "nome,",
+     "start": 54.3,
+     "end": 54.62
+    },
+    {
+     "w": "o",
+     "start": 54.86,
+     "end": 54.92
+    },
+    {
+     "w": "serviço",
+     "start": 54.92,
+     "end": 55.56
+    },
+    {
+     "w": "e",
+     "start": 55.56,
+     "end": 55.7
+    },
+    {
+     "w": "o",
+     "start": 55.7,
+     "end": 55.84
+    },
+    {
+     "w": "profissional",
+     "start": 55.84,
+     "end": 56.38
+    },
+    {
+     "w": "dele.",
+     "start": 56.38,
+     "end": 56.76
+    }
+   ]
+  },
+  {
+   "start": 57.08,
+   "end": 63.68,
+   "text": "Tudo dentro da LGPD. Só recebe quem autorizou, e nada é enviado sem a sua aprovação.",
+   "words": [
+    {
+     "w": "Tudo",
+     "start": 57.08,
+     "end": 57.42
+    },
+    {
+     "w": "dentro",
+     "start": 57.42,
+     "end": 57.88
+    },
+    {
+     "w": "da",
+     "start": 57.88,
+     "end": 58.14
+    },
+    {
+     "w": "LGPD.",
+     "start": 58.14,
+     "end": 58.88
+    },
+    {
+     "w": "Só",
+     "start": 58.88,
+     "end": 59.54
+    },
+    {
+     "w": "recebe",
+     "start": 59.54,
+     "end": 60.12
+    },
+    {
+     "w": "quem",
+     "start": 60.12,
+     "end": 60.38
+    },
+    {
+     "w": "autorizou,",
+     "start": 60.38,
+     "end": 61.1
+    },
+    {
+     "w": "e",
+     "start": 61.1,
+     "end": 61.38
+    },
+    {
+     "w": "nada",
+     "start": 61.38,
+     "end": 61.74
+    },
+    {
+     "w": "é",
+     "start": 61.74,
+     "end": 61.92
+    },
+    {
+     "w": "enviado",
+     "start": 61.92,
+     "end": 62.36
+    },
+    {
+     "w": "sem",
+     "start": 62.36,
+     "end": 62.64
+    },
+    {
+     "w": "a",
+     "start": 62.64,
+     "end": 62.78
+    },
+    {
+     "w": "sua",
+     "start": 62.78,
+     "end": 63.04
+    },
+    {
+     "w": "aprovação.",
+     "start": 63.04,
+     "end": 63.68
+    }
+   ]
+  },
+  {
+   "start": 64.04,
+   "end": 68.98,
+   "text": "O cliente responde, marca pelo seu link, e o horário cai direto na sua agenda.",
+   "words": [
+    {
+     "w": "O",
+     "start": 64.04,
+     "end": 64.18
+    },
+    {
+     "w": "cliente",
+     "start": 64.18,
+     "end": 64.56
+    },
+    {
+     "w": "responde,",
+     "start": 64.56,
+     "end": 65.28
+    },
+    {
+     "w": "marca",
+     "start": 65.52,
+     "end": 65.74
+    },
+    {
+     "w": "pelo",
+     "start": 65.74,
+     "end": 66.0
+    },
+    {
+     "w": "seu",
+     "start": 66.0,
+     "end": 66.22
+    },
+    {
+     "w": "link,",
+     "start": 66.22,
+     "end": 66.56
+    },
+    {
+     "w": "e",
+     "start": 66.56,
+     "end": 67.0
+    },
+    {
+     "w": "o",
+     "start": 67.0,
+     "end": 67.1
+    },
+    {
+     "w": "horário",
+     "start": 67.1,
+     "end": 67.42
+    },
+    {
+     "w": "cai",
+     "start": 67.42,
+     "end": 67.64
+    },
+    {
+     "w": "direto",
+     "start": 67.64,
+     "end": 68.26
+    },
+    {
+     "w": "na",
+     "start": 68.26,
+     "end": 68.4
+    },
+    {
+     "w": "sua",
+     "start": 68.4,
+     "end": 68.62
+    },
+    {
+     "w": "agenda.",
+     "start": 68.62,
+     "end": 68.98
+    }
+   ]
+  },
+  {
+   "start": 69.44,
+   "end": 74.86,
+   "text": "E no fim do mês, você vê quem voltou, quanto faturou, e qual campanha funcionou melhor.",
+   "words": [
+    {
+     "w": "E",
+     "start": 69.44,
+     "end": 69.54
+    },
+    {
+     "w": "no",
+     "start": 69.54,
+     "end": 69.64
+    },
+    {
+     "w": "fim",
+     "start": 69.64,
+     "end": 69.82
+    },
+    {
+     "w": "do",
+     "start": 69.82,
+     "end": 69.92
+    },
+    {
+     "w": "mês,",
+     "start": 69.92,
+     "end": 70.18
+    },
+    {
+     "w": "você",
+     "start": 70.44,
+     "end": 70.64
+    },
+    {
+     "w": "vê",
+     "start": 70.64,
+     "end": 70.88
+    },
+    {
+     "w": "quem",
+     "start": 70.88,
+     "end": 71.16
+    },
+    {
+     "w": "voltou,",
+     "start": 71.16,
+     "end": 71.66
+    },
+    {
+     "w": "quanto",
+     "start": 71.92,
+     "end": 72.24
+    },
+    {
+     "w": "faturou,",
+     "start": 72.24,
+     "end": 72.84
+    },
+    {
+     "w": "e",
+     "start": 72.84,
+     "end": 73.24
+    },
+    {
+     "w": "qual",
+     "start": 73.24,
+     "end": 73.54
+    },
+    {
+     "w": "campanha",
+     "start": 73.54,
+     "end": 74.06
+    },
+    {
+     "w": "funcionou",
+     "start": 74.06,
+     "end": 74.58
+    },
+    {
+     "w": "melhor.",
+     "start": 74.58,
+     "end": 74.86
+    }
+   ]
+  },
+  {
+   "start": 75.36,
+   "end": 83.5,
+   "text": "Não precisa acreditar só na gente. Entre na simulação, com uma barbearia de exemplo e todas as funções liberadas. Sem cadastro.",
+   "words": [
+    {
+     "w": "Não",
+     "start": 75.36,
+     "end": 75.48
+    },
+    {
+     "w": "precisa",
+     "start": 75.48,
+     "end": 75.8
+    },
+    {
+     "w": "acreditar",
+     "start": 75.8,
+     "end": 76.4
+    },
+    {
+     "w": "só",
+     "start": 76.4,
+     "end": 76.7
+    },
+    {
+     "w": "na",
+     "start": 76.7,
+     "end": 76.82
+    },
+    {
+     "w": "gente.",
+     "start": 76.82,
+     "end": 77.14
+    },
+    {
+     "w": "Entre",
+     "start": 77.66,
+     "end": 77.9
+    },
+    {
+     "w": "na",
+     "start": 77.9,
+     "end": 78.1
+    },
+    {
+     "w": "simulação,",
+     "start": 78.1,
+     "end": 78.82
+    },
+    {
+     "w": "com",
+     "start": 78.82,
+     "end": 79.06
+    },
+    {
+     "w": "uma",
+     "start": 79.06,
+     "end": 79.24
+    },
+    {
+     "w": "barbearia",
+     "start": 79.24,
+     "end": 79.49
+    },
+    {
+     "w": "de",
+     "start": 79.74,
+     "end": 79.86
+    },
+    {
+     "w": "exemplo",
+     "start": 79.86,
+     "end": 80.32
+    },
+    {
+     "w": "e",
+     "start": 80.32,
+     "end": 80.56
+    },
+    {
+     "w": "todas",
+     "start": 80.56,
+     "end": 80.9
+    },
+    {
+     "w": "as",
+     "start": 80.9,
+     "end": 81.2
+    },
+    {
+     "w": "funções",
+     "start": 81.2,
+     "end": 81.54
+    },
+    {
+     "w": "liberadas.",
+     "start": 81.54,
+     "end": 82.2
+    },
+    {
+     "w": "Sem",
+     "start": 82.48,
+     "end": 82.84
+    },
+    {
+     "w": "cadastro.",
+     "start": 82.84,
+     "end": 83.5
+    }
+   ]
+  },
+  {
+   "start": 84.2,
+   "end": 89.44,
+   "text": "GravitaSolves. Traga de volta quem já conhece o seu negócio. Crie sua conta hoje.",
+   "words": [
+    {
+     "w": "GravitaSolves.",
+     "start": 84.2,
+     "end": 84.8
+    },
+    {
+     "w": "Traga",
+     "start": 85.26,
+     "end": 85.52
+    },
+    {
+     "w": "de",
+     "start": 85.52,
+     "end": 85.7
+    },
+    {
+     "w": "volta",
+     "start": 85.7,
+     "end": 86.02
+    },
+    {
+     "w": "quem",
+     "start": 86.02,
+     "end": 86.3
+    },
+    {
+     "w": "já",
+     "start": 86.3,
+     "end": 86.64
+    },
+    {
+     "w": "conhece",
+     "start": 86.64,
+     "end": 87.14
+    },
+    {
+     "w": "o",
+     "start": 87.14,
+     "end": 87.26
+    },
+    {
+     "w": "seu",
+     "start": 87.26,
+     "end": 87.38
+    },
+    {
+     "w": "negócio.",
+     "start": 87.38,
+     "end": 87.72
+    },
+    {
+     "w": "Crie",
+     "start": 87.72,
+     "end": 88.09
+    },
+    {
+     "w": "sua",
+     "start": 88.46,
+     "end": 88.64
+    },
+    {
+     "w": "conta",
+     "start": 88.64,
+     "end": 88.98
+    },
+    {
+     "w": "hoje.",
+     "start": 88.98,
+     "end": 89.44
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+Nome do Cliente;Celular;E-mail;Data da Última Visita;Qtd. Visitas;Total Gasto;Serviço mais utilizado;Barbeiro;Aceita WhatsApp
+Marcos Oliveira;(11) 98194-2542;cliente0@exemplo.com;06/10/2026;2;R$ 87,97;Corte;Marcos;sim
+Rafael Souza;(11) 98257-7955;cliente1@exemplo.com;01/10/2026;3;R$ 159,71;Corte;Rafael;sim
+André Rodrigues;(11) 99516-3181;cliente2@exemplo.com;05/10/2026;8;R$ 340,50;Corte + barba;Marcos;sim
+André Lima;(11) 98382-4078;cliente3@exemplo.com;15/09/2026;22;R$ 1.098,68;Corte;Marcos;sim
+Caio santos;(11) 97286-8628;;23/09/2026;18;R$ 1.143,32;Pigmentação;Thiago;sim
+Igor Oliveira;1234;;27/08/2026;8;R$ 356,02;Barba;Marcos;não
+Lucas Rodrigues;(11) 96675-6604;cliente6@exemplo.com;17/07/2026;4;R$ 272,63;Pigmentação;Thiago;sim
+Eduardo Souza;(11) 99351-6140;cliente7@exemplo.com;18/08/2026;19;R$ 1.584,60;Barba;Marcos;não
+André Almeida;(11) 97941-2064;cliente8@exemplo.com;07/11/2026;3;R$ 275,87;Barba;Marcos;não
+Lucas Costa;(11) 97891-6823;cliente9@exemplo.com;31/07/2026;12;R$ 494,89;Corte;Thiago;sim
+Henrique Lima;(11) 99755-9134;cliente10@exemplo.com;02/11/2026;8;R$ 495,07;Pigmentação;Thiago;sim
+Renan Oliveira;(11) 97701-6878;;10/08/2026;18;R$ 995,64;Pigmentação;Rafael;sim
+Bruno Oliveira;(11) 97986-3987;cliente12@exemplo.com;31/10/2026;22;R$ 1.162,34;Corte;Rafael;não
+Vinícius Pereira;(11) 98828-9445;;08/09/2026;11;R$ 1.016,62;Corte;Thiago;não
+Otávio Costa;(11) 96254-4122;cliente14@exemplo.com;06/10/2026;16;R$ 1.198,17;Corte + barba;Thiago;sim
+Diego Pereira;(11) 96619-9791;cliente15@exemplo.com;10/09/2026;4;R$ 160,05;Barba;Marcos;sim
+Bruno santos;(11) 99913-6691;;08/09/2026;5;R$ 374,46;Pigmentação;Rafael;sim
+Pedro Almeida;(11) 97277-2407;cliente17@exemplo.com;15/07/2026;15;R$ 996,33;Barba;Marcos;sim
+Samuel Oliveira;(11) 98163-6926;cliente18@exemplo.com;21/09/2026;7;R$ 646,13;Corte;Marcos;sim
+Daniel Souza;(11) 99720-3736;cliente19@exemplo.com;28/08/2026;9;R$ 616,61;Corte + barba;Marcos;sim
+Daniel santos;(11) 99492-4197;;08/09/2026;26;R$ 2.448,44;Pigmentação;Marcos;sim
+Henrique Ferreira;(11) 96114-5577;;24/09/2026;24;R$ 998,25;Corte + barba;Marcos;sim
+Ricardo Pereira;(11) 96418-4716;;20/07/2026;12;R$ 533,16;Barba;Rafael;não
+Caio Rodrigues;(11) 97409-2389;;07/08/2026;16;R$ 1.440,10;Corte;Thiago;sim
+Samuel Oliveira;(11) 99280-7485;;01/10/2026;21;R$ 1.224,06;Corte;Marcos;sim
+Gustavo Oliveira;(11) 99303-3394;;09/11/2026;19;R$ 1.705,57;Pigmentação;Marcos;sim
+Felipe Ferreira;(11) 99976-2683;;17/09/2026;1;R$ 40,78;Corte + barba;Thiago;sim
+Mateus santos;(11) 96985-6341;cliente27@exemplo.com;09/11/2026;7;R$ 392,79;Pigmentação;Rafael;sim
+Sérgio Pereira;(11) 99703-9466;;29/07/2026;22;R$ 1.585,85;Corte + barba;Marcos;sim
+Thiago Ferreira;(11) 98492-1064;;10/11/2026;15;R$ 1.240,62;Corte + barba;Rafael;sim
+Samuel Rodrigues;(11) 98794-9492;;23/08/2026;18;R$ 781,14;Pigmentação;Rafael;sim
+Igor santos;(11) 97852-1456;;19/10/2026;25;R$ 1.134,40;Corte;Thiago;sim
+Caio Ferreira;(11) 97852-9325;;09/09/2026;7;R$ 546,70;Pigmentação;Marcos;sim
+Fábio Ferreira;(11) 99656-4319;;01/08/2026;9;R$ 816,78;Corte + barba;Thiago;sim
+Otávio Almeida;(11) 96299-4484;;15/10/2026;22;R$ 1.171,17;Corte;Rafael;sim
+Felipe Lima;(11) 99901-2542;cliente35@exemplo.com;31/07/2026;15;R$ 781,16;Pigmentação;Rafael;sim
+Gustavo Costa;(11) 96801-6842;cliente36@exemplo.com;14/07/2026;13;R$ 762,47;Barba;Rafael;sim
+Vinícius Almeida;(11) 98119-5840;;30/09/2026;1;R$ 61,14;Corte;Rafael;sim
+Renan Souza;(11) 99190-3974;cliente38@exemplo.com;06/11/2026;9;R$ 379,60;Corte + barba;Thiago;sim
+Otávio Oliveira;(11) 98868-6358;cliente39@exemplo.com;18/09/2026;17;R$ 1.213,51;Corte;Marcos;sim
+Paulo Souza;(11) 99283-5268;cliente40@exemplo.com;20/10/2026;1;R$ 74,89;Corte + barba;Rafael;sim
+Pedro Souza;(11) 97711-5388;;29/09/2026;11;R$ 1.041,56;Corte;Marcos;sim
+Diego Oliveira;(11) 97277-5997;;20/10/2026;6;R$ 306,58;Corte + barba;Thiago;não
+Thiago Oliveira;(11) 97025-1605;cliente43@exemplo.com;20/10/2026;26;R$ 1.065,97;Corte + barba;Marcos;não
+Igor Almeida;(11) 98027-9944;;04/11/2026;21;R$ 1.339,17;Pigmentação;Marcos;sim
+Fábio santos;(11) 99612-3289;;16/07/2026;11;R$ 560,17;Barba;Rafael;sim
+Carlos Souza;(11) 96226-2384;;06/09/2026;9;R$ 573,22;Pigmentação;Marcos;sim
+Caio santos;(11) 96645-5407;;28/08/2026;2;R$ 130,54;Barba;Thiago;sim
+;(11) 98888-0000;;01/10/2026;2;R$ 90,00;Corte;Rafael;sim

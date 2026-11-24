@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gravitasolves",
+  "main": "worker.ts",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
+  // Job diário (antes no vercel.json): 09:00 UTC = 06:00 em Brasília.
+  "triggers": { "crons": ["0 9 * * *"] },
+  "observability": { "enabled": true },
+  // Pool de conexões ao Postgres (Supabase). Crie com `npx wrangler hyperdrive create` e cole o id aqui;
+  // sem ele, o app usa o secret DATABASE_URL direto (pooler do Supabase, porta 6543).
+  // "hyperdrive": [{ "binding": "HYPERDRIVE", "id": "<id-do-hyperdrive>" }],
+  "vars": { "ASAAS_ENV": "sandbox" }
+}

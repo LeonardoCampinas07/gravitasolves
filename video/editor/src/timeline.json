@@ -1,0 +1,1290 @@
+{
+ "audio": "audio/narracao.mp3",
+ "duration": 90.906,
+ "paragraphs": [
+  {
+   "start": 0.0,
+   "end": 10.201,
+   "text": "Todo mês, alguns clientes somem do seu negócio. Sem aviso. Sem reclamação. E cada um deles leva embora um faturamento que você já tinha conquistado.",
+   "words": [
+    {
+     "w": "Todo",
+     "start": 0.0,
+     "end": 0.331
+    },
+    {
+     "w": "mês,",
+     "start": 0.331,
+     "end": 0.662
+    },
+    {
+     "w": "alguns",
+     "start": 0.662,
+     "end": 1.104
+    },
+    {
+     "w": "clientes",
+     "start": 1.104,
+     "end": 1.656
+    },
+    {
+     "w": "somem",
+     "start": 1.656,
+     "end": 2.043
+    },
+    {
+     "w": "do",
+     "start": 2.043,
+     "end": 2.263
+    },
+    {
+     "w": "seu",
+     "start": 2.263,
+     "end": 2.539
+    },
+    {
+     "w": "negócio.",
+     "start": 2.539,
+     "end": 3.091
+    },
+    {
+     "w": "Sem",
+     "start": 3.442,
+     "end": 3.727
+    },
+    {
+     "w": "aviso.",
+     "start": 3.727,
+     "end": 4.183
+    },
+    {
+     "w": "Sem",
+     "start": 4.442,
+     "end": 4.726
+    },
+    {
+     "w": "reclamação.",
+     "start": 4.726,
+     "end": 5.467
+    },
+    {
+     "w": "E",
+     "start": 6.001,
+     "end": 6.146
+    },
+    {
+     "w": "cada",
+     "start": 6.146,
+     "end": 6.436
+    },
+    {
+     "w": "um",
+     "start": 6.436,
+     "end": 6.629
+    },
+    {
+     "w": "deles",
+     "start": 6.629,
+     "end": 6.967
+    },
+    {
+     "w": "leva",
+     "start": 6.967,
+     "end": 7.256
+    },
+    {
+     "w": "embora",
+     "start": 7.256,
+     "end": 7.643
+    },
+    {
+     "w": "um",
+     "start": 7.643,
+     "end": 7.836
+    },
+    {
+     "w": "faturamento",
+     "start": 7.836,
+     "end": 8.463
+    },
+    {
+     "w": "que",
+     "start": 8.463,
+     "end": 8.705
+    },
+    {
+     "w": "você",
+     "start": 8.705,
+     "end": 8.994
+    },
+    {
+     "w": "já",
+     "start": 8.994,
+     "end": 9.187
+    },
+    {
+     "w": "tinha",
+     "start": 9.187,
+     "end": 9.525
+    },
+    {
+     "w": "conquistado.",
+     "start": 9.525,
+     "end": 10.201
+    }
+   ]
+  },
+  {
+   "start": 10.78,
+   "end": 15.952,
+   "text": "Conheça o Gravita: a plataforma que encontra esses clientes… e traz eles de volta.",
+   "words": [
+    {
+     "w": "Conheça",
+     "start": 10.78,
+     "end": 11.25
+    },
+    {
+     "w": "o",
+     "start": 11.25,
+     "end": 11.407
+    },
+    {
+     "w": "Gravita:",
+     "start": 11.407,
+     "end": 11.929
+    },
+    {
+     "w": "a",
+     "start": 12.219,
+     "end": 12.36
+    },
+    {
+     "w": "plataforma",
+     "start": 12.36,
+     "end": 12.925
+    },
+    {
+     "w": "que",
+     "start": 12.925,
+     "end": 13.16
+    },
+    {
+     "w": "encontra",
+     "start": 13.16,
+     "end": 13.631
+    },
+    {
+     "w": "esses",
+     "start": 13.631,
+     "end": 13.96
+    },
+    {
+     "w": "clientes…",
+     "start": 13.96,
+     "end": 14.478
+    },
+    {
+     "w": "e",
+     "start": 14.737,
+     "end": 14.872
+    },
+    {
+     "w": "traz",
+     "start": 14.872,
+     "end": 15.142
+    },
+    {
+     "w": "eles",
+     "start": 15.142,
+     "end": 15.412
+    },
+    {
+     "w": "de",
+     "start": 15.412,
+     "end": 15.592
+    },
+    {
+     "w": "volta.",
+     "start": 15.592,
+     "end": 15.952
+    }
+   ]
+  },
+  {
+   "start": 16.404,
+   "end": 28.369,
+   "text": "E você não precisa de planilha. Conecte o jeito que você já atende: link de agendamento, Google Agenda, WhatsApp ou os contatos do celular. A sua base de clientes se monta sozinha.",
+   "words": [
+    {
+     "w": "E",
+     "start": 16.404,
+     "end": 16.556
+    },
+    {
+     "w": "você",
+     "start": 16.556,
+     "end": 16.859
+    },
+    {
+     "w": "não",
+     "start": 16.859,
+     "end": 17.112
+    },
+    {
+     "w": "precisa",
+     "start": 17.112,
+     "end": 17.568
+    },
+    {
+     "w": "de",
+     "start": 17.568,
+     "end": 17.77
+    },
+    {
+     "w": "planilha.",
+     "start": 17.77,
+     "end": 18.327
+    },
+    {
+     "w": "Conecte",
+     "start": 18.774,
+     "end": 19.196
+    },
+    {
+     "w": "o",
+     "start": 19.196,
+     "end": 19.336
+    },
+    {
+     "w": "jeito",
+     "start": 19.336,
+     "end": 19.664
+    },
+    {
+     "w": "que",
+     "start": 19.664,
+     "end": 19.898
+    },
+    {
+     "w": "você",
+     "start": 19.898,
+     "end": 20.18
+    },
+    {
+     "w": "já",
+     "start": 20.18,
+     "end": 20.367
+    },
+    {
+     "w": "atende:",
+     "start": 20.367,
+     "end": 20.789
+    },
+    {
+     "w": "link",
+     "start": 21.121,
+     "end": 21.441
+    },
+    {
+     "w": "de",
+     "start": 21.441,
+     "end": 21.655
+    },
+    {
+     "w": "agendamento,",
+     "start": 21.655,
+     "end": 22.403
+    },
+    {
+     "w": "Google",
+     "start": 22.403,
+     "end": 22.831
+    },
+    {
+     "w": "Agenda,",
+     "start": 22.831,
+     "end": 23.312
+    },
+    {
+     "w": "WhatsApp",
+     "start": 23.312,
+     "end": 23.846
+    },
+    {
+     "w": "ou",
+     "start": 23.846,
+     "end": 24.06
+    },
+    {
+     "w": "os",
+     "start": 24.06,
+     "end": 24.274
+    },
+    {
+     "w": "contatos",
+     "start": 24.274,
+     "end": 24.808
+    },
+    {
+     "w": "do",
+     "start": 24.808,
+     "end": 25.022
+    },
+    {
+     "w": "celular.",
+     "start": 25.022,
+     "end": 25.556
+    },
+    {
+     "w": "A",
+     "start": 25.948,
+     "end": 26.096
+    },
+    {
+     "w": "sua",
+     "start": 26.096,
+     "end": 26.343
+    },
+    {
+     "w": "base",
+     "start": 26.343,
+     "end": 26.64
+    },
+    {
+     "w": "de",
+     "start": 26.64,
+     "end": 26.837
+    },
+    {
+     "w": "clientes",
+     "start": 26.837,
+     "end": 27.331
+    },
+    {
+     "w": "se",
+     "start": 27.331,
+     "end": 27.529
+    },
+    {
+     "w": "monta",
+     "start": 27.529,
+     "end": 27.875
+    },
+    {
+     "w": "sozinha.",
+     "start": 27.875,
+     "end": 28.369
+    }
+   ]
+  },
+  {
+   "start": 28.758,
+   "end": 33.946,
+   "text": "Envie as conversas do WhatsApp, e o Gravita descobre na hora quem parou de falar com você.",
+   "words": [
+    {
+     "w": "Envie",
+     "start": 28.758,
+     "end": 29.094
+    },
+    {
+     "w": "as",
+     "start": 29.094,
+     "end": 29.286
+    },
+    {
+     "w": "conversas",
+     "start": 29.286,
+     "end": 29.815
+    },
+    {
+     "w": "do",
+     "start": 29.815,
+     "end": 30.007
+    },
+    {
+     "w": "WhatsApp,",
+     "start": 30.007,
+     "end": 30.535
+    },
+    {
+     "w": "e",
+     "start": 30.535,
+     "end": 30.679
+    },
+    {
+     "w": "o",
+     "start": 30.679,
+     "end": 30.823
+    },
+    {
+     "w": "Gravita",
+     "start": 30.823,
+     "end": 31.256
+    },
+    {
+     "w": "descobre",
+     "start": 31.256,
+     "end": 31.736
+    },
+    {
+     "w": "na",
+     "start": 31.736,
+     "end": 31.928
+    },
+    {
+     "w": "hora",
+     "start": 31.928,
+     "end": 32.216
+    },
+    {
+     "w": "quem",
+     "start": 32.216,
+     "end": 32.505
+    },
+    {
+     "w": "parou",
+     "start": 32.505,
+     "end": 32.841
+    },
+    {
+     "w": "de",
+     "start": 32.841,
+     "end": 33.033
+    },
+    {
+     "w": "falar",
+     "start": 33.033,
+     "end": 33.369
+    },
+    {
+     "w": "com",
+     "start": 33.369,
+     "end": 33.609
+    },
+    {
+     "w": "você.",
+     "start": 33.609,
+     "end": 33.946
+    }
+   ]
+  },
+  {
+   "start": 34.348,
+   "end": 41.705,
+   "text": "Em segundos, você vê quantos clientes estão em risco, quantos já sumiram… e quanto dinheiro está parado na sua base.",
+   "words": [
+    {
+     "w": "Em",
+     "start": 34.348,
+     "end": 34.563
+    },
+    {
+     "w": "segundos,",
+     "start": 34.563,
+     "end": 35.156
+    },
+    {
+     "w": "você",
+     "start": 35.156,
+     "end": 35.48
+    },
+    {
+     "w": "vê",
+     "start": 35.48,
+     "end": 35.695
+    },
+    {
+     "w": "quantos",
+     "start": 35.695,
+     "end": 36.18
+    },
+    {
+     "w": "clientes",
+     "start": 36.18,
+     "end": 36.719
+    },
+    {
+     "w": "estão",
+     "start": 36.719,
+     "end": 37.097
+    },
+    {
+     "w": "em",
+     "start": 37.097,
+     "end": 37.312
+    },
+    {
+     "w": "risco,",
+     "start": 37.312,
+     "end": 37.743
+    },
+    {
+     "w": "quantos",
+     "start": 37.743,
+     "end": 38.229
+    },
+    {
+     "w": "já",
+     "start": 38.229,
+     "end": 38.444
+    },
+    {
+     "w": "sumiram…",
+     "start": 38.444,
+     "end": 38.983
+    },
+    {
+     "w": "e",
+     "start": 39.291,
+     "end": 39.433
+    },
+    {
+     "w": "quanto",
+     "start": 39.433,
+     "end": 39.811
+    },
+    {
+     "w": "dinheiro",
+     "start": 39.811,
+     "end": 40.285
+    },
+    {
+     "w": "está",
+     "start": 40.285,
+     "end": 40.569
+    },
+    {
+     "w": "parado",
+     "start": 40.569,
+     "end": 40.947
+    },
+    {
+     "w": "na",
+     "start": 40.947,
+     "end": 41.137
+    },
+    {
+     "w": "sua",
+     "start": 41.137,
+     "end": 41.373
+    },
+    {
+     "w": "base.",
+     "start": 41.373,
+     "end": 41.705
+    }
+   ]
+  },
+  {
+   "start": 42.093,
+   "end": 48.384,
+   "text": "E não é só uma lista. O Gravita mostra quem tem mais chance de voltar, para você começar por onde dá resultado.",
+   "words": [
+    {
+     "w": "E",
+     "start": 42.093,
+     "end": 42.213
+    },
+    {
+     "w": "não",
+     "start": 42.213,
+     "end": 42.412
+    },
+    {
+     "w": "é",
+     "start": 42.412,
+     "end": 42.532
+    },
+    {
+     "w": "só",
+     "start": 42.532,
+     "end": 42.691
+    },
+    {
+     "w": "uma",
+     "start": 42.691,
+     "end": 42.89
+    },
+    {
+     "w": "lista.",
+     "start": 42.89,
+     "end": 43.209
+    },
+    {
+     "w": "O",
+     "start": 43.466,
+     "end": 43.606
+    },
+    {
+     "w": "Gravita",
+     "start": 43.606,
+     "end": 44.023
+    },
+    {
+     "w": "mostra",
+     "start": 44.023,
+     "end": 44.394
+    },
+    {
+     "w": "quem",
+     "start": 44.394,
+     "end": 44.673
+    },
+    {
+     "w": "tem",
+     "start": 44.673,
+     "end": 44.904
+    },
+    {
+     "w": "mais",
+     "start": 44.904,
+     "end": 45.183
+    },
+    {
+     "w": "chance",
+     "start": 45.183,
+     "end": 45.554
+    },
+    {
+     "w": "de",
+     "start": 45.554,
+     "end": 45.739
+    },
+    {
+     "w": "voltar,",
+     "start": 45.739,
+     "end": 46.157
+    },
+    {
+     "w": "para",
+     "start": 46.157,
+     "end": 46.435
+    },
+    {
+     "w": "você",
+     "start": 46.435,
+     "end": 46.714
+    },
+    {
+     "w": "começar",
+     "start": 46.714,
+     "end": 47.131
+    },
+    {
+     "w": "por",
+     "start": 47.131,
+     "end": 47.363
+    },
+    {
+     "w": "onde",
+     "start": 47.363,
+     "end": 47.641
+    },
+    {
+     "w": "dá",
+     "start": 47.641,
+     "end": 47.827
+    },
+    {
+     "w": "resultado.",
+     "start": 47.827,
+     "end": 48.384
+    }
+   ]
+  },
+  {
+   "start": 48.805,
+   "end": 55.074,
+   "text": "Quer entender melhor? É só perguntar. O agente analisa os seus dados e responde em português, na hora.",
+   "words": [
+    {
+     "w": "Quer",
+     "start": 48.805,
+     "end": 49.017
+    },
+    {
+     "w": "entender",
+     "start": 49.017,
+     "end": 49.371
+    },
+    {
+     "w": "melhor?",
+     "start": 49.371,
+     "end": 49.689
+    },
+    {
+     "w": "É",
+     "start": 50.037,
+     "end": 50.173
+    },
+    {
+     "w": "só",
+     "start": 50.173,
+     "end": 50.354
+    },
+    {
+     "w": "perguntar.",
+     "start": 50.354,
+     "end": 50.898
+    },
+    {
+     "w": "O",
+     "start": 51.266,
+     "end": 51.414
+    },
+    {
+     "w": "agente",
+     "start": 51.414,
+     "end": 51.81
+    },
+    {
+     "w": "analisa",
+     "start": 51.81,
+     "end": 52.255
+    },
+    {
+     "w": "os",
+     "start": 52.255,
+     "end": 52.453
+    },
+    {
+     "w": "seus",
+     "start": 52.453,
+     "end": 52.749
+    },
+    {
+     "w": "dados",
+     "start": 52.749,
+     "end": 53.095
+    },
+    {
+     "w": "e",
+     "start": 53.095,
+     "end": 53.244
+    },
+    {
+     "w": "responde",
+     "start": 53.244,
+     "end": 53.738
+    },
+    {
+     "w": "em",
+     "start": 53.738,
+     "end": 53.936
+    },
+    {
+     "w": "português,",
+     "start": 53.936,
+     "end": 54.53
+    },
+    {
+     "w": "na",
+     "start": 54.53,
+     "end": 54.728
+    },
+    {
+     "w": "hora.",
+     "start": 54.728,
+     "end": 55.074
+    }
+   ]
+  },
+  {
+   "start": 55.469,
+   "end": 64.701,
+   "text": "Peça uma campanha, e ele prepara tudo: mensagens personalizadas com o nome, o serviço e o profissional de cada cliente. Nada de texto repetido.",
+   "words": [
+    {
+     "w": "Peça",
+     "start": 55.469,
+     "end": 55.757
+    },
+    {
+     "w": "uma",
+     "start": 55.757,
+     "end": 55.997
+    },
+    {
+     "w": "campanha,",
+     "start": 55.997,
+     "end": 56.526
+    },
+    {
+     "w": "e",
+     "start": 56.526,
+     "end": 56.671
+    },
+    {
+     "w": "ele",
+     "start": 56.671,
+     "end": 56.911
+    },
+    {
+     "w": "prepara",
+     "start": 56.911,
+     "end": 57.344
+    },
+    {
+     "w": "tudo:",
+     "start": 57.344,
+     "end": 57.68
+    },
+    {
+     "w": "mensagens",
+     "start": 58.0,
+     "end": 58.574
+    },
+    {
+     "w": "personalizadas",
+     "start": 58.574,
+     "end": 59.409
+    },
+    {
+     "w": "com",
+     "start": 59.409,
+     "end": 59.67
+    },
+    {
+     "w": "o",
+     "start": 59.67,
+     "end": 59.827
+    },
+    {
+     "w": "nome,",
+     "start": 59.827,
+     "end": 60.192
+    },
+    {
+     "w": "o",
+     "start": 60.192,
+     "end": 60.349
+    },
+    {
+     "w": "serviço",
+     "start": 60.349,
+     "end": 60.818
+    },
+    {
+     "w": "e",
+     "start": 60.818,
+     "end": 60.975
+    },
+    {
+     "w": "o",
+     "start": 60.975,
+     "end": 61.131
+    },
+    {
+     "w": "profissional",
+     "start": 61.131,
+     "end": 61.862
+    },
+    {
+     "w": "de",
+     "start": 61.862,
+     "end": 62.071
+    },
+    {
+     "w": "cada",
+     "start": 62.071,
+     "end": 62.384
+    },
+    {
+     "w": "cliente.",
+     "start": 62.384,
+     "end": 62.906
+    },
+    {
+     "w": "Nada",
+     "start": 63.223,
+     "end": 63.54
+    },
+    {
+     "w": "de",
+     "start": 63.54,
+     "end": 63.751
+    },
+    {
+     "w": "texto",
+     "start": 63.751,
+     "end": 64.12
+    },
+    {
+     "w": "repetido.",
+     "start": 64.12,
+     "end": 64.701
+    }
+   ]
+  },
+  {
+   "start": 65.073,
+   "end": 72.322,
+   "text": "Tudo dentro da LGPD: o Gravita só fala com quem autorizou, e nenhuma mensagem sai sem a sua aprovação.",
+   "words": [
+    {
+     "w": "Tudo",
+     "start": 65.073,
+     "end": 65.524
+    },
+    {
+     "w": "dentro",
+     "start": 65.524,
+     "end": 66.126
+    },
+    {
+     "w": "da",
+     "start": 66.126,
+     "end": 66.427
+    },
+    {
+     "w": "LGPD:",
+     "start": 66.427,
+     "end": 66.953
+    },
+    {
+     "w": "o",
+     "start": 67.303,
+     "end": 67.458
+    },
+    {
+     "w": "Gravita",
+     "start": 67.458,
+     "end": 67.924
+    },
+    {
+     "w": "só",
+     "start": 67.924,
+     "end": 68.131
+    },
+    {
+     "w": "fala",
+     "start": 68.131,
+     "end": 68.441
+    },
+    {
+     "w": "com",
+     "start": 68.441,
+     "end": 68.7
+    },
+    {
+     "w": "quem",
+     "start": 68.7,
+     "end": 69.01
+    },
+    {
+     "w": "autorizou,",
+     "start": 69.01,
+     "end": 69.631
+    },
+    {
+     "w": "e",
+     "start": 69.631,
+     "end": 69.786
+    },
+    {
+     "w": "nenhuma",
+     "start": 69.786,
+     "end": 70.252
+    },
+    {
+     "w": "mensagem",
+     "start": 70.252,
+     "end": 70.769
+    },
+    {
+     "w": "sai",
+     "start": 70.769,
+     "end": 71.028
+    },
+    {
+     "w": "sem",
+     "start": 71.028,
+     "end": 71.287
+    },
+    {
+     "w": "a",
+     "start": 71.287,
+     "end": 71.442
+    },
+    {
+     "w": "sua",
+     "start": 71.442,
+     "end": 71.701
+    },
+    {
+     "w": "aprovação.",
+     "start": 71.701,
+     "end": 72.322
+    }
+   ]
+  },
+  {
+   "start": 72.68,
+   "end": 77.972,
+   "text": "Quando o cliente decide voltar, ele marca pelo seu link. O pedido cai direto na sua agenda.",
+   "words": [
+    {
+     "w": "Quando",
+     "start": 72.68,
+     "end": 73.04
+    },
+    {
+     "w": "o",
+     "start": 73.04,
+     "end": 73.175
+    },
+    {
+     "w": "cliente",
+     "start": 73.175,
+     "end": 73.581
+    },
+    {
+     "w": "decide",
+     "start": 73.581,
+     "end": 73.942
+    },
+    {
+     "w": "voltar,",
+     "start": 73.942,
+     "end": 74.347
+    },
+    {
+     "w": "ele",
+     "start": 74.347,
+     "end": 74.573
+    },
+    {
+     "w": "marca",
+     "start": 74.573,
+     "end": 74.888
+    },
+    {
+     "w": "pelo",
+     "start": 74.888,
+     "end": 75.159
+    },
+    {
+     "w": "seu",
+     "start": 75.159,
+     "end": 75.384
+    },
+    {
+     "w": "link.",
+     "start": 75.384,
+     "end": 75.7
+    },
+    {
+     "w": "O",
+     "start": 76.041,
+     "end": 76.179
+    },
+    {
+     "w": "pedido",
+     "start": 76.179,
+     "end": 76.547
+    },
+    {
+     "w": "cai",
+     "start": 76.547,
+     "end": 76.777
+    },
+    {
+     "w": "direto",
+     "start": 76.777,
+     "end": 77.145
+    },
+    {
+     "w": "na",
+     "start": 77.145,
+     "end": 77.329
+    },
+    {
+     "w": "sua",
+     "start": 77.329,
+     "end": 77.559
+    },
+    {
+     "w": "agenda.",
+     "start": 77.559,
+     "end": 77.972
+    }
+   ]
+  },
+  {
+   "start": 78.33,
+   "end": 84.27,
+   "text": "E você acompanha o que importa: quem voltou, quanto faturou, e qual campanha funcionou melhor.",
+   "words": [
+    {
+     "w": "E",
+     "start": 78.33,
+     "end": 78.462
+    },
+    {
+     "w": "você",
+     "start": 78.462,
+     "end": 78.726
+    },
+    {
+     "w": "acompanha",
+     "start": 78.726,
+     "end": 79.209
+    },
+    {
+     "w": "o",
+     "start": 79.209,
+     "end": 79.34
+    },
+    {
+     "w": "que",
+     "start": 79.34,
+     "end": 79.56
+    },
+    {
+     "w": "importa:",
+     "start": 79.56,
+     "end": 79.999
+    },
+    {
+     "w": "quem",
+     "start": 80.36,
+     "end": 80.686
+    },
+    {
+     "w": "voltou,",
+     "start": 80.686,
+     "end": 81.174
+    },
+    {
+     "w": "quanto",
+     "start": 81.174,
+     "end": 81.609
+    },
+    {
+     "w": "faturou,",
+     "start": 81.609,
+     "end": 82.152
+    },
+    {
+     "w": "e",
+     "start": 82.152,
+     "end": 82.315
+    },
+    {
+     "w": "qual",
+     "start": 82.315,
+     "end": 82.641
+    },
+    {
+     "w": "campanha",
+     "start": 82.641,
+     "end": 83.184
+    },
+    {
+     "w": "funcionou",
+     "start": 83.184,
+     "end": 83.781
+    },
+    {
+     "w": "melhor.",
+     "start": 83.781,
+     "end": 84.27
+    }
+   ]
+  },
+  {
+   "start": 84.707,
+   "end": 90.906,
+   "text": "Gravita. Volte a faturar com quem já conhece o seu negócio. Crie sua conta e comece hoje.",
+   "words": [
+    {
+     "w": "Gravita.",
+     "start": 84.707,
+     "end": 85.311
+    },
+    {
+     "w": "Volte",
+     "start": 85.622,
+     "end": 85.939
+    },
+    {
+     "w": "a",
+     "start": 85.939,
+     "end": 86.075
+    },
+    {
+     "w": "faturar",
+     "start": 86.075,
+     "end": 86.482
+    },
+    {
+     "w": "com",
+     "start": 86.482,
+     "end": 86.708
+    },
+    {
+     "w": "quem",
+     "start": 86.708,
+     "end": 86.98
+    },
+    {
+     "w": "já",
+     "start": 86.98,
+     "end": 87.161
+    },
+    {
+     "w": "conhece",
+     "start": 87.161,
+     "end": 87.568
+    },
+    {
+     "w": "o",
+     "start": 87.568,
+     "end": 87.704
+    },
+    {
+     "w": "seu",
+     "start": 87.704,
+     "end": 87.93
+    },
+    {
+     "w": "negócio.",
+     "start": 87.93,
+     "end": 88.383
+    },
+    {
+     "w": "Crie",
+     "start": 88.721,
+     "end": 89.085
+    },
+    {
+     "w": "sua",
+     "start": 89.085,
+     "end": 89.388
+    },
+    {
+     "w": "conta",
+     "start": 89.388,
+     "end": 89.813
+    },
+    {
+     "w": "e",
+     "start": 89.813,
+     "end": 89.995
+    },
+    {
+     "w": "comece",
+     "start": 89.995,
+     "end": 90.481
+    },
+    {
+     "w": "hoje.",
+     "start": 90.481,
+     "end": 90.906
+    }
+   ]
+  }
+ ]
+}

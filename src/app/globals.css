@@ -1,0 +1,162 @@
+﻿@import "tailwindcss";
+
+/* ───────── GravitaSolves design tokens ───────── */
+@theme {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --color-ink-950: #0a0f0d;
+  --color-ink-900: #111814;
+  --color-ink-850: #161e1a;
+  --color-ink-800: #1d2621;
+  --color-ink-700: #2e3833;
+  --color-ink-600: #4a524e;
+  --color-ink-500: #6b726e;
+  --color-ink-400: #959c98;
+  --color-ink-300: #c4c9c5;
+  --color-ink-200: #dde1dc;
+
+  --color-paper: #f6f7f4;
+  --color-line: #e4e7e1;
+  --color-surface: #ffffff;
+
+  --color-brand-50: #e9f6f0;
+  --color-brand-100: #cdebdd;
+  --color-brand-200: #9fd8bf;
+  --color-brand-500: #12a37a;
+  --color-brand-600: #0e8463;
+  --color-brand-700: #0b5d47;
+  --color-brand-800: #084535;
+
+  --color-citrus: #d4f06a;
+  --color-citrus-dim: #b9d64e;
+
+  --color-st-active: #12a37a;
+  --color-st-risk: #d99a06;
+  --color-st-inactive: #e8692a;
+  --color-st-high: #d23b3b;
+  --color-st-recovered: #6e56cf;
+  --color-st-unknown: #959c98;
+  --color-st-risk-text: #8a6100;
+  --color-st-high-text: #8f2424;
+
+  --animate-rise: rise 0.35s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  --animate-fade: fade 0.25s ease-out both;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+:root { color-scheme: light; }
+html { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+body { background: var(--color-paper); color: var(--color-ink-950); font-family: var(--font-sans); }
+
+.num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+
+::selection { background: var(--color-citrus); color: var(--color-ink-950); }
+
+:focus-visible { outline: 2px solid var(--color-brand-500); outline-offset: 2px; border-radius: 6px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+/* ───────── Tema escuro do app (painel interno) ─────────
+   Escala "ink" invertida: classes como text-ink-950 viram texto claro e bg-ink-950/5 vira um véu claro.
+   Fundos sólidos escuros (bg-ink-950) viram vidro; com text-white viram o botão/realce verde. */
+.theme-dark {
+  color-scheme: dark;
+  --color-ink-950: #f1f5f3;
+  --color-ink-900: #e4eae7;
+  --color-ink-850: #d6ddd9;
+  --color-ink-800: #c5cdc9;
+  --color-ink-700: #aab4af;
+  --color-ink-600: #8e9893;
+  --color-ink-500: #74807a;
+  --color-ink-400: #5b6661;
+  --color-ink-300: #3a4440;
+  --color-ink-200: #29312d;
+
+  --color-paper: #101814;
+  --color-line: rgba(255, 255, 255, 0.075);
+  --color-surface: #0d1411;
+
+  --color-brand-50: #11271e;
+  --color-brand-100: #163a2b;
+  --color-brand-200: #1f5a42;
+  --color-brand-500: #34d08a;
+  --color-brand-600: #4ee39f;
+  --color-brand-700: #7cefbf;
+  --color-brand-800: #a6f5d3;
+
+  --color-st-active: #34d08a;
+  --color-st-risk: #f5a524;
+  --color-st-inactive: #ff8a4c;
+  --color-st-high: #f06363;
+  --color-st-recovered: #a08cff;
+  --color-st-unknown: #74807a;
+  --color-st-risk-text: #f5c056;
+  --color-st-high-text: #ff9a9a;
+
+  --color-mint: #4ee39f;
+  background: #060a08;
+  color: var(--color-ink-950);
+  min-height: 100dvh;
+}
+.theme-dark .bg-ink-950 { background-color: rgba(255, 255, 255, 0.07); }
+.theme-dark .bg-ink-950.text-white,
+.theme-dark .bg-ink-950.text-white:hover { background-color: var(--color-mint); color: #06130d; box-shadow: 0 8px 24px -10px rgba(78, 227, 159, 0.7); }
+.theme-dark .hover\:bg-ink-800:hover { background-color: #7af0b9; }
+.theme-dark .border-ink-950 { border-color: rgba(78, 227, 159, 0.55); }
+.theme-dark .ring-ink-950 { --tw-ring-color: rgba(78, 227, 159, 0.55); }
+.theme-dark .hover\:bg-white:hover { background-color: rgba(255, 255, 255, 0.08); }
+.theme-dark [class*="fixed"][class*="bg-ink-950/"] { background-color: rgba(0, 0, 0, 0.62); }
+/* Componentes base (claro); o tema escuro sobrescreve abaixo */
+.glass { background: var(--color-surface); border: 1px solid var(--color-line); box-shadow: 0 1px 2px rgba(10, 15, 13, 0.04); }
+.btn-primary { background: #0a0f0d; color: #fff; box-shadow: 0 1px 0 rgba(255, 255, 255, 0.08) inset; }
+.btn-primary:hover { background: #1d2621; }
+.btn-secondary { background: var(--color-surface); color: var(--color-ink-950); border: 1px solid var(--color-line); }
+.btn-secondary:hover { border-color: var(--color-ink-300); background: var(--color-paper); }
+.field { background: var(--color-surface); }
+.field:hover { border-color: var(--color-ink-300); }
+.theme-dark .btn-primary { background: #4ee39f; color: #06130d; font-weight: 600; box-shadow: 0 8px 24px -10px rgba(78, 227, 159, 0.75); }
+.theme-dark .btn-primary:hover { background: #7af0b9; }
+.theme-dark .btn-secondary { background: rgba(255, 255, 255, 0.04); }
+.theme-dark .btn-secondary:hover { background: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.18); }
+.theme-dark .field { background: rgba(255, 255, 255, 0.04); }
+.theme-dark .field:hover { border-color: rgba(255, 255, 255, 0.18); }
+.theme-dark .field option { background: #0d1411; }
+.theme-dark .glass {
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.075);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 20px 50px -30px rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(14px);
+}
+.theme-dark ::selection { background: var(--color-mint); color: #06130d; }
+.app-glow { position: fixed; inset: 0; pointer-events: none; z-index: 0; overflow: hidden; }
+.app-glow::before, .app-glow::after { content: ""; position: absolute; border-radius: 9999px; filter: blur(90px); }
+.app-glow::before { width: 620px; height: 620px; left: 10%; top: -220px; background: radial-gradient(circle, rgba(34, 197, 130, 0.22), transparent 65%); }
+.app-glow::after { width: 560px; height: 560px; right: -160px; top: 30%; background: radial-gradient(circle, rgba(18, 163, 122, 0.16), transparent 65%); }
+
+/* Rolagem fina para listas internas */
+.thin-scroll { scrollbar-width: thin; scrollbar-color: var(--color-ink-300) transparent; }
+
+/* Texto do agente */
+.prose-agent p { margin: 0.35rem 0; }
+.prose-agent ul { margin: 0.35rem 0; padding-left: 1.1rem; list-style: disc; }
+.prose-agent li { margin: 0.15rem 0; }
+.prose-agent strong { font-weight: 600; }
+.prose-agent em { color: var(--color-ink-500); }
+
+/* Rolagem suave nas âncoras da landing, respeitando quem prefere menos movimento. */
+html { scroll-padding-top: 76px; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+
+/* Celular: itens de grid não podem ficar mais largos que a tela por causa do conteúdo (evita rolagem lateral). */
+main .grid > * { min-width: 0; }

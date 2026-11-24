@@ -1,0 +1,20 @@
+node_modules
+.next
+.data
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+.open-next
+.wrangler
+.dev.vars
+.next-static
+.claude
+# vídeos e renders (grandes demais para o GitHub)
+video/**/*.mp4
+video/**/*.wav
+video/**/*.mp3
+video/_frames*
+video/editor/node_modules
+video/editor/out
+video/editor/out-tts

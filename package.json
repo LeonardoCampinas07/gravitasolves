@@ -1,0 +1,57 @@
+{
+  "name": "gravitasolves",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gravita — plataforma SaaS de recuperação de clientes inativos com agente de IA",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "prod:check": "tsx scripts/prod-check.ts",
+    "db:demo": "tsx scripts/seed-demo.ts",
+    "jobs:run": "tsx scripts/run-jobs.ts",
+    "test": "vitest run",
+    "cf:build": "node scripts/cf-build.mjs",
+    "cf:preview": "npm run cf:build && wrangler dev",
+    "cf:deploy": "npm run cf:build && wrangler deploy"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0",
+    "@electric-sql/pglite": "^0.5.16",
+    "clsx": "^2.1.1",
+    "drizzle-orm": "^0.45.4",
+    "exceljs": "^4.4.0",
+    "fflate": "^0.8.3",
+    "geist": "^1.9.2",
+    "lucide-react": "^1.71.0",
+    "next": "^15.5.29",
+    "papaparse": "^5.7.0",
+    "postgres": "^4.1.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "recharts": "^3.10.1",
+    "server-only": "^0.0.1",
+    "tailwind-merge": "^3.7.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "^1.20.18",
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/papaparse": "^5.5.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.5",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.0",
+    "wrangler": "^4.167.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "workerd@1.20261123.1": true
+  }
+}
